@@ -7,4 +7,5 @@ C# app with **steering behavior**.
 - Youtube
 - Rutube
  
-![image](https://github.com/user-attachments/assets/c5dba27c-4818-4481-9461-85935ac77fc6)
+![image](https://github.com/user-attachments/assets/557733d6-aa06-45ce-b4bc-a5d0a9893819)
+
